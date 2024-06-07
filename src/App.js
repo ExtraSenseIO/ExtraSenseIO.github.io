@@ -15,7 +15,7 @@ function App() {
       <section className="App-features">
         <h2>Features</h2>
         <ul>
-          <li>3D Home Scanning and Mapping</li>
+          <li>3D Home Scanning and Mapping!</li>
           <li>Live Captioning</li>
           <li>Person Recognition</li>
           <li>Medication Reminders</li>
