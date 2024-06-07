@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro, .App-features, .App-cta {
+  margin: 20px 0;
+}
+
+.App-features ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.App-features li {
+  background: #61dafb;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
