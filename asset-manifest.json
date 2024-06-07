@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ExtraSenseIO/static/css/main.a1ae1541.css",
+    "main.js": "/ExtraSenseIO/static/js/main.61e7e464.js",
+    "static/js/453.66c2acda.chunk.js": "/ExtraSenseIO/static/js/453.66c2acda.chunk.js",
+    "index.html": "/ExtraSenseIO/index.html",
+    "main.a1ae1541.css.map": "/ExtraSenseIO/static/css/main.a1ae1541.css.map",
+    "main.61e7e464.js.map": "/ExtraSenseIO/static/js/main.61e7e464.js.map",
+    "453.66c2acda.chunk.js.map": "/ExtraSenseIO/static/js/453.66c2acda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ae1541.css",
+    "static/js/main.61e7e464.js"
+  ]
+}
